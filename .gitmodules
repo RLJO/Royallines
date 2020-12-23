@@ -943,3 +943,8 @@
 	path = WithPrice/CP_V12
 	url = git@github.com:WithPrice/CP_V12.git
 	branch = main
+
+[submodule "helpthenation/CP_V12"]
+	path = helpthenation/CP_V12
+	url = git@github.com:helpthenation/CP_V12.git
+	branch = main
