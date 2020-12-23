@@ -938,3 +938,8 @@
 	path = SW
 	url = https://github.com/WithPrice/SW.git
 	branch = 12.0
+
+[submodule "WithPrice/CP_V12"]
+	path = WithPrice/CP_V12
+	url = git@github.com:WithPrice/CP_V12.git
+	branch = main
