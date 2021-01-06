@@ -938,3 +938,7 @@
 	path = SW
 	url = https://github.com/WithPrice/SW.git
 	branch = 12.0
+[submodule "Royalline"]
+	path = Royalline
+	url = https://github.com/RLJO/Royalline.git
+	branch = New
