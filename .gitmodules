@@ -1,0 +1,952 @@
+[submodule "stock-logistics-reporting"]
+	path = stock-logistics-reporting
+	url = https://github.com/OCA-MUK/stock-logistics-reporting.git
+	branch = 12.0
+[submodule "partner-contact"]
+	path = partner-contact
+	url = https://github.com/OCA-MUK/partner-contact.git
+	branch = 12.0
+[submodule "stock-logistics-workflow"]
+	path = stock-logistics-workflow
+	url = https://github.com/OCA-MUK/stock-logistics-workflow.git
+	branch = 12.0
+[submodule "social"]
+	path = social
+	url = https://github.com/OCA-MUK/social.git
+	branch = 12.0
+[submodule "hr"]
+	path = hr
+	url = https://github.com/OCA-MUK/hr.git
+	branch = 12.0
+[submodule "server-tools"]
+	path = server-tools
+	url = https://github.com/OCA-MUK/server-tools.git
+	branch = 12.0
+[submodule "account-reconcile"]
+	path = account-reconcile
+	url = https://github.com/OCA-MUK/account-reconcile.git
+	branch = 12.0
+[submodule "project"]
+	path = project
+	url = https://github.com/OCA-MUK/project.git
+	branch = 12.0
+[submodule "operating-unit"]
+	path = operating-unit
+	url = https://github.com/OCA-MUK/operating-unit.git
+	branch = 12.0
+[submodule "crm"]
+	path = crm
+	url = https://github.com/OCA-MUK/crm.git
+	branch = 12.0
+[submodule "pos"]
+	path = pos
+	url = https://github.com/OCA-MUK/pos.git
+	branch = 12.0
+[submodule "web"]
+	path = web
+	url = https://github.com/OCA-MUK/web.git
+	branch = 12.0
+[submodule "wms"]
+	path = wms
+	url = https://github.com/OCA-MUK/wms.git
+	branch = 12.0
+[submodule "purchase-workflow"]
+	path = purchase-workflow
+	url = https://github.com/OCA-MUK/purchase-workflow.git
+	branch = 12.0
+[submodule "bank-payment"]
+	path = bank-payment
+	url = https://github.com/OCA-MUK/bank-payment.git
+	branch = 12.0
+[submodule "sale-workflow"]
+	path = sale-workflow
+	url = https://github.com/OCA-MUK/sale-workflow.git
+	branch = 12.0
+[submodule "e-commerce"]
+	path = e-commerce
+	url = https://github.com/OCA-MUK/e-commerce.git
+	branch = 12.0
+[submodule "helpdesk"]
+	path = helpdesk
+	url = https://github.com/OCA-MUK/helpdesk.git
+	branch = 12.0
+[submodule "field-service"]
+	path = field-service
+	url = https://github.com/OCA-MUK/field-service.git
+	branch = 12.0
+[submodule "contract"]
+	path = contract
+	url = https://github.com/OCA-MUK/contract.git
+	branch = 12.0
+[submodule "commission"]
+	path = commission
+	url = https://github.com/OCA-MUK/commission.git
+	branch = 12.0
+[submodule "account-invoicing"]
+	path = account-invoicing
+	url = https://github.com/OCA-MUK/account-invoicing.git
+	branch = 12.0
+[submodule "account-fiscal-rule"]
+	path = account-fiscal-rule
+	url = https://github.com/OCA-MUK/account-fiscal-rule.git
+	branch = 12.0
+[submodule "mis-builder"]
+	path = mis-builder
+	url = https://github.com/OCA-MUK/mis-builder.git
+	branch = 12.0
+[submodule "account-financial-reporting"]
+	path = account-financial-reporting
+	url = https://github.com/OCA-MUK/account-financial-reporting.git
+	branch = 12.0
+[submodule "account-analytic"]
+	path = account-analytic
+	url = https://github.com/OCA-MUK/account-analytic.git
+	branch = 12.0
+[submodule "account-closing"]
+	path = account-closing
+	url = https://github.com/OCA-MUK/account-closing.git
+	branch = 12.0
+[submodule "server-ux"]
+	path = server-ux
+	url = https://github.com/OCA-MUK/server-ux.git
+	branch = 12.0
+[submodule "account-financial-tools"]
+	path = account-financial-tools
+	url = https://github.com/OCA-MUK/account-financial-tools.git
+	branch = 12.0
+[submodule "account-budgeting"]
+	path = account-budgeting
+	url = https://github.com/OCA-MUK/account-budgeting.git
+	branch = 12.0
+[submodule "stock-logistics-warehouse"]
+	path = stock-logistics-warehouse
+	url = https://github.com/OCA-MUK/stock-logistics-warehouse.git
+	branch = 12.0
+[submodule "sale-reporting"]
+	path = sale-reporting
+	url = https://github.com/OCA-MUK/sale-reporting.git
+	branch = 12.0
+[submodule "report-print-send"]
+	path = report-print-send
+	url = https://github.com/OCA-MUK/report-print-send.git
+	branch = 12.0
+[submodule "product-attribute"]
+	path = product-attribute
+	url = https://github.com/OCA-MUK/product-attribute.git
+	branch = 12.0
+[submodule "survey"]
+	path = survey
+	url = https://github.com/OCA-MUK/survey.git
+	branch = 12.0
+[submodule "reporting-engine"]
+	path = reporting-engine
+	url = https://github.com/OCA-MUK/reporting-engine.git
+	branch = 12.0
+[submodule "knowledge"]
+	path = knowledge
+	url = https://github.com/OCA-MUK/knowledge.git
+	branch = 12.0
+[submodule "manufacture"]
+	path = manufacture
+	url = https://github.com/OCA-MUK/manufacture.git
+	branch = 12.0
+[submodule "website"]
+	path = website
+	url = https://github.com/OCA-MUK/website.git
+	branch = 12.0
+[submodule "multi-company"]
+	path = multi-company
+	url = https://github.com/OCA-MUK/multi-company.git
+	branch = 12.0
+[submodule "business-requirement"]
+	path = business-requirement
+	url = https://github.com/OCA-MUK/business-requirement.git
+	branch = 12.0
+[submodule "credit-control"]
+	path = credit-control
+	url = https://github.com/OCA-MUK/credit-control.git
+	branch = 12.0
+[submodule "edi"]
+	path = edi
+	url = https://github.com/OCA-MUK/edi.git
+	branch = 12.0
+[submodule "account-invoice-reporting"]
+	path = account-invoice-reporting
+	url = https://github.com/OCA-MUK/account-invoice-reporting.git
+	branch = 12.0
+[submodule "rest-framework"]
+	path = rest-framework
+	url = https://github.com/OCA-MUK/rest-framework.git
+	branch = 12.0
+[submodule "stock-logistics-barcode"]
+	path = stock-logistics-barcode
+	url = https://github.com/OCA-MUK/stock-logistics-barcode.git
+	branch = 12.0
+[submodule "delivery-carrier"]
+	path = delivery-carrier
+	url = https://github.com/OCA-MUK/delivery-carrier.git
+	branch = 12.0
+[submodule "product-pack"]
+	path = product-pack
+	url = https://github.com/OCA-MUK/product-pack.git
+	branch = 12.0
+[submodule "server-auth"]
+	path = server-auth
+	url = https://github.com/OCA-MUK/server-auth.git
+	branch = 12.0
+[submodule "account-consolidation"]
+	path = account-consolidation
+	url = https://github.com/OCA-MUK/account-consolidation.git
+	branch = 12.0
+[submodule "geospatial"]
+	path = geospatial
+	url = https://github.com/OCA-MUK/geospatial.git
+	branch = 12.0
+[submodule "muk_dms"]
+	path = muk_dms
+	url = https://github.com/OCA-MUK/muk_dms.git
+	branch = 12.0
+[submodule "vertical-association"]
+	path = vertical-association
+	url = https://github.com/OCA-MUK/vertical-association.git
+	branch = 12.0
+[submodule "account-payment"]
+	path = account-payment
+	url = https://github.com/OCA-MUK/account-payment.git
+	branch = 12.0
+[submodule "search-engine"]
+	path = search-engine
+	url = https://github.com/OCA-MUK/search-engine.git
+	branch = 12.0
+[submodule "purchase-reporting"]
+	path = purchase-reporting
+	url = https://github.com/OCA-MUK/purchase-reporting.git
+	branch = 12.0
+[submodule "event"]
+	path = event
+	url = https://github.com/OCA-MUK/event.git
+	branch = 12.0
+[submodule "brand"]
+	path = brand
+	url = https://github.com/OCA-MUK/brand.git
+	branch = 12.0
+[submodule "queue"]
+	path = queue
+	url = https://github.com/OCA-MUK/queue.git
+	branch = 12.0
+[submodule "bank-statement-import"]
+	path = bank-statement-import
+	url = https://github.com/OCA-MUK/bank-statement-import.git
+	branch = 12.0
+[submodule "muk_web"]
+	path = muk_web
+	url = https://github.com/OCA-MUK/muk_web.git
+	branch = 12.0
+[submodule "muk_base"]
+	path = muk_base
+	url = https://github.com/OCA-MUK/muk_base.git
+	branch = 12.0
+[submodule "muk_misc"]
+	path = muk_misc
+	url = https://github.com/OCA-MUK/muk_misc.git
+	branch = 12.0
+[submodule "muk_quality"]
+	path = muk_quality
+	url = https://github.com/OCA-MUK/muk_quality.git
+	branch = 12.0
+[submodule "muk_website"]
+	path = muk_website
+	url = https://github.com/OCA-MUK/muk_website.git
+	branch = 12.0
+[submodule "timesheet"]
+	path = timesheet
+	url = https://github.com/OCA-MUK/timesheet.git
+	branch = 12.0
+[submodule "management-system"]
+	path = management-system
+	url = https://github.com/OCA-MUK/management-system.git
+	branch = 12.0
+[submodule "community-data-files"]
+	path = community-data-files
+	url = https://github.com/OCA-MUK/community-data-files.git
+	branch = 12.0
+[submodule "server-backend"]
+	path = server-backend
+	url = https://github.com/OCA-MUK/server-backend.git
+	branch = 12.0
+[submodule "oca-custom"]
+	path = oca-custom
+	url = https://github.com/OCA-MUK/oca-custom.git
+	branch = 12.0
+[submodule "server-env"]
+	path = server-env
+	url = https://github.com/OCA-MUK/server-env.git
+	branch = 12.0
+[submodule "maintenance"]
+	path = maintenance
+	url = https://github.com/OCA-MUK/maintenance.git
+	branch = 12.0
+[submodule "margin-analysis"]
+	path = margin-analysis
+	url = https://github.com/OCA-MUK/margin-analysis.git
+	branch = 12.0
+[submodule "storage"]
+	path = storage
+	url = https://github.com/OCA-MUK/storage.git
+	branch = 12.0
+[submodule "server-brand"]
+	path = server-brand
+	url = https://github.com/OCA-MUK/server-brand.git
+	branch = 12.0
+[submodule "intrastat-extrastat"]
+	path = intrastat-extrastat
+	url = https://github.com/OCA-MUK/intrastat-extrastat.git
+	branch = 12.0
+[submodule "product-variant"]
+	path = product-variant
+	url = https://github.com/OCA-MUK/product-variant.git
+	branch = 12.0
+[submodule "iot"]
+	path = iot
+	url = https://github.com/OCA-MUK/iot.git
+	branch = 12.0
+[submodule "currency"]
+	path = currency
+	url = https://github.com/OCA-MUK/currency.git
+	branch = 12.0
+[submodule "data-protection"]
+	path = data-protection
+	url = https://github.com/OCA-MUK/data-protection.git
+	branch = 12.0
+[submodule "manufacture-reporting"]
+	path = manufacture-reporting
+	url = https://github.com/OCA-MUK/manufacture-reporting.git
+	branch = 12.0
+[submodule "project-reporting"]
+	path = project-reporting
+	url = https://github.com/OCA-MUK/project-reporting.git
+	branch = 12.0
+[submodule "vertical-hotel"]
+	path = vertical-hotel
+	url = https://github.com/OCA-MUK/vertical-hotel.git
+	branch = 12.0
+[submodule "stock-logistics-transport"]
+	path = stock-logistics-transport
+	url = https://github.com/OCA-MUK/stock-logistics-transport.git
+	branch = 12.0
+[submodule "rma"]
+	path = rma
+	url = https://github.com/OCA-MUK/rma.git
+	branch = 12.0
+[submodule "apps-store"]
+	path = apps-store
+	url = https://github.com/OCA-MUK/apps-store.git
+	branch = 12.0
+[submodule "muk_bundles"]
+	path = muk_bundles
+	url = https://github.com/OCA-MUK/muk_bundles.git
+	branch = 12.0
+[submodule "Event-Management"]
+	path = Event-Management
+	url = https://github.com/RL-OtherApps/Event-Management.git
+	branch = 12.0
+[submodule "Mobile-Service-Management"]
+	path = Mobile-Service-Management
+	url = https://github.com/RL-OtherApps/Mobile-Service-Management.git
+	branch = 12.0
+[submodule "Front-Office-Management"]
+	path = Front-Office-Management
+	url = https://github.com/RL-OtherApps/Front-Office-Management.git
+	branch = 12.0
+[submodule "Rasool-Nawaz"]
+	path = Rasool-Nawaz
+	url = https://github.com/RL-OtherApps/Rasool-Nawaz.git
+	branch = 12.0
+[submodule "admin_export"]
+	path = admin_export
+	url = https://github.com/RL-OtherApps/admin_export.git
+	branch = 12.0
+[submodule "Libtech"]
+	path = Libtech
+	url = https://github.com/RL-OtherApps/Libtech.git
+	branch = 12.0
+[submodule "multipay"]
+	path = multipay
+	url = https://github.com/RL-OtherApps/multipay.git
+	branch = 12.0
+[submodule "YK"]
+	path = YK
+	url = https://github.com/RL-OtherApps/YK.git
+	branch = 12.0
+[submodule "carpeta_ventas_monopark"]
+	path = carpeta_ventas_monopark
+	url = https://github.com/RL-OtherApps/carpeta_ventas_monopark.git
+	branch = 12.0
+[submodule "invoice_report_design"]
+	path = invoice_report_design
+	url = https://github.com/RL-OtherApps/invoice_report_design.git
+	branch = 12.0
+[submodule "odoo-base"]
+	path = odoo-base
+	url = https://github.com/RL-OtherApps/odoo-base.git
+	branch = 12.0
+[submodule "misc-addons"]
+	path = misc-addons
+	url = https://github.com/RL-OtherApps/misc-addons.git
+	branch = 12.0
+[submodule "CybroAddons"]
+	path = CybroAddons
+	url = https://github.com/RL-OtherApps/CybroAddons.git
+	branch = 12.0
+[submodule "odoo-cloud-platform"]
+	path = odoo-cloud-platform
+	url = https://github.com/RL-OtherApps/odoo-cloud-platform.git
+	branch = 12.0
+[submodule "odoo-af"]
+	path = odoo-af
+	url = https://github.com/RL-OtherApps/odoo-af.git
+	branch = 12.0
+[submodule "cb-addons"]
+	path = cb-addons
+	url = https://github.com/RL-OtherApps/cb-addons.git
+	branch = 12.0
+[submodule "qrtl-custom"]
+	path = qrtl-custom
+	url = https://github.com/RL-OtherApps/qrtl-custom.git
+	branch = 12.0
+[submodule "access-addons"]
+	path = access-addons
+	url = https://github.com/RL-OtherApps/access-addons.git
+	branch = 12.0
+[submodule "addons-coopiteasy"]
+	path = addons-coopiteasy
+	url = https://github.com/RL-OtherApps/addons-coopiteasy.git
+	branch = 12.0
+[submodule "vertical-cooperative"]
+	path = vertical-cooperative
+	url = https://github.com/RL-OtherApps/vertical-cooperative.git
+	branch = 12.0
+[submodule "clvsol_odoo_addons_jcafb"]
+	path = clvsol_odoo_addons_jcafb
+	url = https://github.com/RL-OtherApps/clvsol_odoo_addons_jcafb.git
+	branch = 12.0
+[submodule "stock"]
+	path = stock
+	url = https://github.com/RL-OtherApps/stock.git
+	branch = 12.0
+[submodule "purchase"]
+	path = purchase
+	url = https://github.com/RL-OtherApps/purchase.git
+	branch = 12.0
+[submodule "clvsol_odoo_addons"]
+	path = clvsol_odoo_addons
+	url = https://github.com/RL-OtherApps/clvsol_odoo_addons.git
+	branch = 12.0
+[submodule "pos-addons"]
+	path = pos-addons
+	url = https://github.com/RL-OtherApps/pos-addons.git
+	branch = 12.0
+[submodule "mrp_subcontracting-backport"]
+	path = mrp_subcontracting-backport
+	url = https://github.com/RL-OtherApps/mrp_subcontracting-backport.git
+	branch = 12.0
+[submodule "odoo-pim"]
+	path = odoo-pim
+	url = https://github.com/RL-OtherApps/odoo-pim.git
+	branch = 12.0
+[submodule "other-odoo-addons"]
+	path = other-odoo-addons
+	url = https://github.com/RL-OtherApps/other-odoo-addons.git
+	branch = 12.0
+[submodule "odoo-shopinvader"]
+	path = odoo-shopinvader
+	url = https://github.com/RL-OtherApps/odoo-shopinvader.git
+	branch = 12.0
+[submodule "odoo-addons"]
+	path = odoo-addons
+	url = https://github.com/RL-OtherApps/odoo-addons.git
+	branch = 12.0
+[submodule "website-addons"]
+	path = website-addons
+	url = https://github.com/RL-OtherApps/website-addons.git
+	branch = 12.0
+[submodule "mail-addons"]
+	path = mail-addons
+	url = https://github.com/RL-OtherApps/mail-addons.git
+	branch = 12.0
+[submodule "OpenHRMS"]
+	path = OpenHRMS
+	url = https://github.com/RL-OtherApps/OpenHRMS.git
+	branch = 12.0
+[submodule "cb-hr"]
+	path = cb-hr
+	url = https://github.com/RL-OtherApps/cb-hr.git
+	branch = 12.0
+[submodule "external_modules"]
+	path = external_modules
+	url = https://github.com/RL-OtherApps/external_modules.git
+	branch = 12.0
+[submodule "odoo-shopinvader-payment"]
+	path = odoo-shopinvader-payment
+	url = https://github.com/RL-OtherApps/odoo-shopinvader-payment.git
+	branch = 12.0
+[submodule "odoo-crm"]
+	path = odoo-crm
+	url = https://github.com/RL-OtherApps/odoo-crm.git
+	branch = 12.0
+[submodule "stock-rma"]
+	path = stock-rma
+	url = https://github.com/RL-OtherApps/stock-rma.git
+	branch = 12.0
+[submodule "odoo-website"]
+	path = odoo-website
+	url = https://github.com/RL-OtherApps/odoo-website.git
+	branch = 12.0
+[submodule "product"]
+	path = product
+	url = https://github.com/RL-OtherApps/product.git
+	branch = 12.0
+[submodule "backend_theme"]
+	path = backend_theme
+	url = https://github.com/RL-OtherApps/backend_theme.git
+	branch = 12.0
+[submodule "odoo-formio"]
+	path = odoo-formio
+	url = https://github.com/RL-OtherApps/odoo-formio.git
+	branch = 12.0
+[submodule "addons-vauxoo"]
+	path = addons-vauxoo
+	url = https://github.com/RL-OtherApps/addons-vauxoo.git
+	branch = 12.0
+[submodule "merp"]
+	path = merp
+	url = https://github.com/RL-OtherApps/merp.git
+	branch = 12.0
+[submodule "odoo-usability"]
+	path = odoo-usability
+	url = https://github.com/RL-OtherApps/odoo-usability.git
+	branch = 12.0
+[submodule "ak-odoo-incubator"]
+	path = ak-odoo-incubator
+	url = https://github.com/RL-OtherApps/ak-odoo-incubator.git
+	branch = 12.0
+[submodule "oaw-custom"]
+	path = oaw-custom
+	url = https://github.com/RL-OtherApps/oaw-custom.git
+	branch = 12.0
+[submodule "odoo-py3o-report-templates"]
+	path = odoo-py3o-report-templates
+	url = https://github.com/RL-OtherApps/odoo-py3o-report-templates.git
+	branch = 12.0
+[submodule "odoo-addons-hr-incubator"]
+	path = odoo-addons-hr-incubator
+	url = https://github.com/RL-OtherApps/odoo-addons-hr-incubator.git
+	branch = 12.0
+[submodule "odoo_apps_public"]
+	path = odoo_apps_public
+	url = https://github.com/RL-OtherApps/odoo_apps_public.git
+	branch = 12.0
+[submodule "sale"]
+	path = sale
+	url = https://github.com/RL-OtherApps/sale.git
+	branch = 12.0
+[submodule "sale-addons"]
+	path = sale-addons
+	url = https://github.com/RL-OtherApps/sale-addons.git
+	branch = 12.0
+[submodule "odoonz-addons"]
+	path = odoonz-addons
+	url = https://github.com/RL-OtherApps/odoonz-addons.git
+	branch = 12.0
+[submodule "investor-wallet-platform"]
+	path = investor-wallet-platform
+	url = https://github.com/RL-OtherApps/investor-wallet-platform.git
+	branch = 12.0
+[submodule "addons-onestein"]
+	path = addons-onestein
+	url = https://github.com/RL-OtherApps/addons-onestein.git
+	branch = 12.0
+[submodule "odoo-project-addons"]
+	path = odoo-project-addons
+	url = https://github.com/RL-OtherApps/odoo-project-addons.git
+	branch = 12.0
+[submodule "alfodoo"]
+	path = alfodoo
+	url = https://github.com/RL-OtherApps/alfodoo.git
+	branch = 12.0
+[submodule "Community_Portal"]
+	path = Community_Portal
+	url = https://github.com/RL-OtherApps/Community_Portal.git
+	branch = 12.0
+[submodule "eficent-odoo-addons"]
+	path = eficent-odoo-addons
+	url = https://github.com/RL-OtherApps/eficent-odoo-addons.git
+	branch = 12.0
+[submodule "crm-addons"]
+	path = crm-addons
+	url = https://github.com/RL-OtherApps/crm-addons.git
+	branch = 12.0
+[submodule "willdooit-afex-odoo"]
+	path = willdooit-afex-odoo
+	url = https://github.com/RL-OtherApps/willdooit-afex-odoo.git
+	branch = 12.0
+[submodule "odoo-vtiger"]
+	path = odoo-vtiger
+	url = https://github.com/RL-OtherApps/odoo-vtiger.git
+	branch = 12.0
+[submodule "odoo-hr"]
+	path = odoo-hr
+	url = https://github.com/RL-OtherApps/odoo-hr.git
+	branch = 12.0
+[submodule "transport-management-system"]
+	path = transport-management-system
+	url = https://github.com/RL-OtherApps/transport-management-system.git
+	branch = 12.0
+[submodule "miscellaneous"]
+	path = miscellaneous
+	url = https://github.com/RL-OtherApps/miscellaneous.git
+	branch = 12.0
+[submodule "odoo-addons-cae"]
+	path = odoo-addons-cae
+	url = https://github.com/RL-OtherApps/odoo-addons-cae.git
+	branch = 12.0
+[submodule "odoo-addons-multi-company"]
+	path = odoo-addons-multi-company
+	url = https://github.com/RL-OtherApps/odoo-addons-multi-company.git
+	branch = 12.0
+[submodule "avoinsystems-addons"]
+	path = avoinsystems-addons
+	url = https://github.com/RL-OtherApps/avoinsystems-addons.git
+	branch = 12.0
+[submodule "tracking"]
+	path = tracking
+	url = https://github.com/RL-OtherApps/tracking.git
+	branch = 12.0
+[submodule "payments_usd_mxn"]
+	path = payments_usd_mxn
+	url = https://github.com/RL-OtherApps/payments_usd_mxn.git
+	branch = 12.0
+[submodule "sdi-addons"]
+	path = sdi-addons
+	url = https://github.com/RL-OtherApps/sdi-addons.git
+	branch = 12.0
+[submodule "project-addons"]
+	path = project-addons
+	url = https://github.com/RL-OtherApps/project-addons.git
+	branch = 12.0
+[submodule "odoo-product-configurator"]
+	path = odoo-product-configurator
+	url = https://github.com/RL-OtherApps/odoo-product-configurator.git
+	branch = 12.0
+[submodule "hr-addons"]
+	path = hr-addons
+	url = https://github.com/RL-OtherApps/hr-addons.git
+	branch = 12.0
+[submodule "fleet_management"]
+	path = fleet_management
+	url = https://github.com/RL-OtherApps/fleet_management.git
+	branch = 12.0
+[submodule "multi-store"]
+	path = multi-store
+	url = https://github.com/RL-OtherApps/multi-store.git
+	branch = 12.0
+[submodule "survey_attachment"]
+	path = survey_attachment
+	url = https://github.com/RL-OtherApps/survey_attachment.git
+	branch = 12.0
+[submodule "account-move-import"]
+	path = account-move-import
+	url = https://github.com/RL-OtherApps/account-move-import.git
+	branch = 12.0
+[submodule "odoo-viewer-groups"]
+	path = odoo-viewer-groups
+	url = https://github.com/RL-OtherApps/odoo-viewer-groups.git
+	branch = 12.0
+[submodule "odoo-hw"]
+	path = odoo-hw
+	url = https://github.com/RL-OtherApps/odoo-hw.git
+	branch = 12.0
+[submodule "project-bid"]
+	path = project-bid
+	url = https://github.com/RL-OtherApps/project-bid.git
+	branch = 12.0
+[submodule "project-earned-value"]
+	path = project-earned-value
+	url = https://github.com/RL-OtherApps/project-earned-value.git
+	branch = 12.0
+[submodule "partner"]
+	path = partner
+	url = https://github.com/RL-OtherApps/partner.git
+	branch = 12.0
+[submodule "odoo_community_addons"]
+	path = odoo_community_addons
+	url = https://github.com/RL-OtherApps/odoo_community_addons.git
+	branch = 12.0
+[submodule "odoo-payment-gateways"]
+	path = odoo-payment-gateways
+	url = https://github.com/RL-OtherApps/odoo-payment-gateways.git
+	branch = 12.0
+[submodule "odoo_dhtmlxgantt"]
+	path = odoo_dhtmlxgantt
+	url = https://github.com/RL-OtherApps/odoo_dhtmlxgantt.git
+	branch = 12.0
+[submodule "odoo-mooncard-connector"]
+	path = odoo-mooncard-connector
+	url = https://github.com/RL-OtherApps/odoo-mooncard-connector.git
+	branch = 12.0
+[submodule "logeco"]
+	path = logeco
+	url = https://github.com/RL-OtherApps/logeco.git
+	branch = 12.0
+[submodule "mailbox_replica"]
+	path = mailbox_replica
+	url = https://github.com/RL-OtherApps/mailbox_replica.git
+	branch = 12.0
+[submodule "mtd"]
+	path = mtd
+	url = https://github.com/RL-OtherApps/mtd.git
+	branch = 12.0
+[submodule "Development-Tutorials"]
+	path = Development-Tutorials
+	url = https://github.com/RL-OtherApps/Development-Tutorials.git
+	branch = 12.0
+[submodule "patches"]
+	path = patches
+	url = https://github.com/RL-OtherApps/patches.git
+	branch = 12.0
+[submodule "odoo-report"]
+	path = odoo-report
+	url = https://github.com/RL-OtherApps/odoo-report.git
+	branch = 12.0
+[submodule "storage-deprecated-moved-to-oca"]
+	path = storage-deprecated-moved-to-oca
+	url = https://github.com/RL-OtherApps/storage-deprecated-moved-to-oca.git
+	branch = 12.0
+[submodule "send_sms_task"]
+	path = send_sms_task
+	url = https://github.com/RL-OtherApps/send_sms_task.git
+	branch = 12.0
+[submodule "Jupical_Contributions"]
+	path = Jupical_Contributions
+	url = https://github.com/RL-OtherApps/Jupical_Contributions.git
+	branch = 12.0
+[submodule "logistics-center"]
+	path = logistics-center
+	url = https://github.com/RL-OtherApps/logistics-center.git
+	branch = 12.0
+[submodule "odoo-addons-company-wizard"]
+	path = odoo-addons-company-wizard
+	url = https://github.com/RL-OtherApps/odoo-addons-company-wizard.git
+	branch = 12.0
+[submodule "profiloo"]
+	path = profiloo
+	url = https://github.com/RL-OtherApps/profiloo.git
+	branch = 12.0
+[submodule "clvsol_odoo_addons_pbm"]
+	path = clvsol_odoo_addons_pbm
+	url = https://github.com/RL-OtherApps/clvsol_odoo_addons_pbm.git
+	branch = 12.0
+[submodule "Jasperreports_odoo"]
+	path = Jasperreports_odoo
+	url = https://github.com/RL-OtherApps/Jasperreports_odoo.git
+	branch = 12.0
+[submodule "countinghouse"]
+	path = countinghouse
+	url = https://github.com/RL-OtherApps/countinghouse.git
+	branch = 12.0
+[submodule "edz-custom"]
+	path = edz-custom
+	url = https://github.com/RL-OtherApps/edz-custom.git
+	branch = 12.0
+[submodule "fb-connector"]
+	path = fb-connector
+	url = https://github.com/RL-OtherApps/fb-connector.git
+	branch = 12.0
+[submodule "business_intelligence_fields"]
+	path = business_intelligence_fields
+	url = https://github.com/RL-OtherApps/business_intelligence_fields.git
+	branch = 12.0
+[submodule "pos-addons-llc"]
+	path = pos-addons-llc
+	url = https://github.com/RL-OtherApps/pos-addons-llc.git
+	branch = 12.0
+[submodule "qubiq-addons"]
+	path = qubiq-addons
+	url = https://github.com/RL-OtherApps/qubiq-addons.git
+	branch = 12.0
+[submodule "aeroo_reports"]
+	path = aeroo_reports
+	url = https://github.com/RL-OtherApps/aeroo_reports.git
+	branch = 12.0
+[submodule "odoo-newrelic"]
+	path = odoo-newrelic
+	url = https://github.com/RL-OtherApps/odoo-newrelic.git
+	branch = 12.0
+[submodule "shipbox"]
+	path = shipbox
+	url = https://github.com/RL-OtherApps/shipbox.git
+	branch = 12.0
+[submodule "anytracker"]
+	path = anytracker
+	url = https://github.com/RL-OtherApps/anytracker.git
+	branch = 12.0
+[submodule "percent_field"]
+	path = percent_field
+	url = https://github.com/RL-OtherApps/percent_field.git
+	branch = 12.0
+[submodule "universal_tax"]
+	path = universal_tax
+	url = https://github.com/RL-OtherApps/universal_tax.git
+	branch = 12.0
+[submodule "web_listview_sticky_header"]
+	path = web_listview_sticky_header
+	url = https://github.com/RL-OtherApps/web_listview_sticky_header.git
+	branch = 12.0
+[submodule "pos_low_stock_alert"]
+	path = pos_low_stock_alert
+	url = https://github.com/RL-OtherApps/pos_low_stock_alert.git
+	branch = 12.0
+[submodule "universal_discount"]
+	path = universal_discount
+	url = https://github.com/RL-OtherApps/universal_discount.git
+	branch = 12.0
+[submodule "url_access_restriction"]
+	path = url_access_restriction
+	url = https://github.com/RL-OtherApps/url_access_restriction.git
+	branch = 12.0
+[submodule "jo_hrms"]
+	path = jo_hrms
+	url = https://github.com/RL-OtherApps/jo_hrms.git
+	branch = 12.0
+[submodule "ksa"]
+	path = ksa
+	url = https://github.com/RL-OtherApps/ksa.git
+	branch = 12.0
+[submodule "debug-assets-permission"]
+	path = debug-assets-permission
+	url = https://github.com/RL-OtherApps/debug-assets-permission.git
+	branch = 12.0
+[submodule "GAP-polymers"]
+	path = GAP-polymers
+	url = https://github.com/RL-OtherApps/GAP-polymers.git
+	branch = 12.0
+[submodule "hekima-rdc"]
+	path = hekima-rdc
+	url = https://github.com/WithPrice/hekima-rdc.git
+	branch = master
+[submodule "cali-plug"]
+	path = cali-plug
+	url = https://github.com/WithPrice/cali-plug.git
+	branch = master
+[submodule "Odoo"]
+	path = Odoo
+	url = https://github.com/RL-OtherApps/Odoo.git
+	branch = 12.0
+[submodule "odoo-addons-3"]
+	path = odoo-addons-3
+	url = https://github.com/RL-OtherApps/odoo-addons-3.git
+	branch = 12.0
+[submodule "trey-addons"]
+	path = trey-addons
+	url = https://github.com/RL-OtherApps/trey-addons.git
+	branch = 12.0
+[submodule "Omnia"]
+	path = Omnia
+	url = https://github.com/RL-OtherApps/Omnia.git
+	branch = 12.0
+[submodule "odooapps"]
+	path = odooapps
+	url = https://github.com/RL-OtherApps/odooapps.git
+	branch = 12.0
+[submodule "odoo_modules"]
+	path = odoo_modules
+	url = https://github.com/RL-OtherApps/odoo_modules.git
+	branch = 12.0
+[submodule "qu-server-tools"]
+	path = qu-server-tools
+	url = https://github.com/RL-OtherApps/qu-server-tools.git
+	branch = 12.0
+[submodule "odoo-addons-2"]
+	path = odoo-addons-2
+	url = https://github.com/RL-OtherApps/odoo-addons-2.git
+	branch = 12.0
+[submodule "odoo_addons"]
+	path = odoo_addons
+	url = https://github.com/RL-OtherApps/odoo_addons.git
+	branch = 12.0
+[submodule "Odoo-addons-1"]
+	path = Odoo-addons-1
+	url = https://github.com/RL-OtherApps/Odoo-addons-1.git
+	branch = 12.0
+[submodule "odooplm"]
+	path = odooplm
+	url = https://github.com/RL-OtherApps/odooplm.git
+	branch = 12.0
+[submodule "clvsol_odoo_addons_mfmng"]
+	path = clvsol_odoo_addons_mfmng
+	url = https://github.com/RL-OtherApps/clvsol_odoo_addons_mfmng.git
+	branch = 12.0
+[submodule "PDC-Management"]
+	path = PDC-Management
+	url = https://github.com/RLJO/PDC-Management.git
+	branch = 12.0
+[submodule "logistic"]
+	path = logistic
+	url = https://github.com/RL-OtherApps/logistic.git
+	branch = 12.0
+[submodule "GMTools"]
+	path = GMTools
+	url = https://github.com/RL-OtherApps/GMTools.git
+	branch = 12.0
+[submodule "zts-demo-v12"]
+	path = zts-demo-v12
+	url = https://github.com/RL-OtherApps/zts-demo-v12.git
+	branch = 12.0
+[submodule "Alshulah-Group"]
+	path = Alshulah-Group
+	url = https://github.com/RL-OtherApps/Alshulah-Group.git
+	branch = 12.0
+[submodule "oxp_2019"]
+	path = oxp_2019
+	url = https://github.com/RL-OtherApps/oxp_2019.git
+	branch = 12.0
+[submodule "carpeta_reporte_inventario"]
+	path = carpeta_reporte_inventario
+	url = https://github.com/RL-OtherApps/carpeta_reporte_inventario.git
+	branch = 12.0
+[submodule "wordpress"]
+	path = wordpress
+	url = https://github.com/RL-OtherApps/wordpress.git
+	branch = 12.0
+[submodule "odoo-eam"]
+	path = odoo-eam
+	url = https://github.com/RL-OtherApps/odoo-eam.git
+	branch = 12.0
+[submodule "sos_guards"]
+	path = sos_guards
+	url = https://github.com/RL-OtherApps/sos_guards.git
+	branch = 12.0
+[submodule "aged02"]
+	path = aged02
+	url = https://github.com/RL-OtherApps/aged02.git
+	branch = 12.0
+[submodule "accioma-addons"]
+	path = accioma-addons
+	url = https://github.com/WithPrice/accioma-addons.git
+	branch = 12.0
+[submodule "SW"]
+	path = SW
+	url = https://github.com/WithPrice/SW.git
+	branch = 12.0
+[submodule "Royalline"]
+	path = Royalline
+	url = https://github.com/RLJO/Royalline.git
+	branch = New
+[submodule "Royal"]
+	path = Royal
+	url = https://github.com/RLJO/Royalline.git
+	branch = New
+[submodule "Royal1"]
+	path = Royal1
+	url = https://github.com/RLJO/Royalline.git
+	branch = Prod
