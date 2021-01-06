@@ -2,3 +2,8 @@
 	path = RLJO/Royalline
 	url = git@github.com:RLJO/Royalline.git
 	branch = New
+
+[submodule "Royalline"]
+	path = Royalline
+	url = git@github.com:RLJO/Royalline.git
+	branch = New
