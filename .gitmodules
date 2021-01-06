@@ -942,3 +942,7 @@
 	path = Royalline
 	url = https://github.com/RLJO/Royalline.git
 	branch = New
+[submodule "Royal"]
+	path = Royal
+	url = https://github.com/RLJO/Royalline.git
+	branch = New
